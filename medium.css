@@ -86,7 +86,7 @@ font-size: 14px;
         padding: 10px 30px;
     }
 }
-@media screen and (max-width:425px) {
+@media screen and (max-width:430px) {
     .link1>a{
         display: none;
     }
